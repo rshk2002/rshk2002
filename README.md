@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sehui Yoo
-- 👀 I’m interested in Frontend Development
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on making interesting tools to help people
 - 📫 How to reach me: shixi2012@gmail.com
