@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sehui Yoo
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React
+- 👀 I’m interested in Web Development and AI
+- 🌱 I’m currently developing React projects
 - 💞️ I’m looking to collaborate on making interesting tools to help people
 - 📫 How to reach me: shixi2012@gmail.com
 
