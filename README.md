@@ -4,7 +4,7 @@
 Hi, I'm a software engineer. I am interested in interested in developer tools and customer-facing applications.
 
 ### 🔧 Tech Stack
-JavaScript / TypeScript / React / Next.js / Angular / Python / FastAPI / Docker
+JavaScript / TypeScript / React / Next.js / Angular / Python / Docker
 
 <!-- 
 ### 📌 Featured Projects
